@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("B")
     print("C")
     print("D")
+    print("Ты криворукий пидар")
